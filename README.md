@@ -1,7 +1,7 @@
 # admin
  laravel-admin
 
-git clone https://github.com/bo3bdo/blog.git
+##git clone https://github.com/bo3bdo/admin.git
 
 composer install
 
